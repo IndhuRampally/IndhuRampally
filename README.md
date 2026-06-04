@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Indhu Rampally
 
-<!--
-**IndhuRampally/IndhuRampally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+- 💻 SQL, Python, Excel, Power BI
+- 📈 Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- SQL
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Excel
+
+## 📂 Projects
+
+### Exploratory Data Analysis
+- Data Cleaning
+- Data Visualization
+- Business Insights
+
+### Python Projects
+- Automation
+- Data Processing
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/rampally-indhu-922413244
+- Email: rampelli.indhu22@gmail.com
