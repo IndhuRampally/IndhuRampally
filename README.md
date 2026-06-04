@@ -11,7 +11,7 @@
 * 🔍 Skilled with SQL, Python, Excel, and Power BI
 * 📊 Interested in Data Visualization and Business Intelligence
 * 🎯 Goal: Build data-driven solutions and dashboards
-* 📫 Reach me at: rampelli.indhu22@gmail.com
+* 📫 Reach me at: [rampelli.indhu22@gmail.com]
 
 ---
 
@@ -37,26 +37,39 @@
 
 ## 📂 Projects
 
-### 🐍 Python Data Projects
+### 🏦 Bank Management Application (Python)
 
-### 🏦 Bank Management Application
+* Developed a banking system using Python
+* Implemented account creation, deposit, withdrawal, and balance inquiry features
+* Applied Object-Oriented Programming (OOP) concepts
+* Managed customer and transaction data efficiently
 
-- Developed a banking system using Python
-- Implemented account creation, deposit, withdrawal, and balance inquiry features
-- Applied Object-Oriented Programming (OOP) concepts
-- Managed customer and transaction data efficiently
-- Enhanced problem-solving and logical programming skills
+### 📚 Library Management System (SQL)
 
-### 📈 Exploratory Data Analysis
+* Designed a relational database for managing books, authors, borrowers, branches, and loan transactions
+* Developed SQL queries using Joins, GROUP BY, HAVING, and Aggregate Functions
+* Analyzed book availability, borrower activity, and branch-wise loan statistics
+* Generated reports to support library operations and decision-making
 
-* Data cleaning and preprocessing
-* Trend analysis
-* Business insights generation
+### 📊 Blinkit Business Dashboard (Power BI, SQL)
+
+* Developed an interactive Power BI dashboard to analyze sales performance and business metrics
+* Created KPI dashboards for Total Sales, Average Sales, Number of Items Sold, and Ratings
+* Analyzed outlet performance, product categories, and sales trends
+* Generated actionable business insights through data visualization
+
+### 📈 Retail Transaction Data Analysis (EDA)
+
+* Performed data cleaning and preprocessing using Python
+* Conducted exploratory data analysis to identify sales trends and customer behavior
+* Created visualizations to uncover business insights
+* Generated recommendations based on data-driven findings
+
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/rampally-indhu-922413244
+* LinkedIn: [www.linkedin.com/in/rampally-indhu-922413244](http://www.linkedin.com/in/rampally-indhu-922413244)
 * GitHub: https://github.com/IndhuRampally
 
 ---
