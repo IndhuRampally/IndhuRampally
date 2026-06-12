@@ -65,6 +65,12 @@
 * Created visualizations to uncover business insights
 * Generated recommendations based on data-driven findings
 
+### 📊 Amazon Sales Dashboard (Excel)
+
+* Built an interactive Amazon Sales Dashboard using Excel, Pivot Tables, Pivot Charts, and Slicers.
+* Analyzed category-wise sales, product performance, customer locations, order status, and payment methods.
+* Derived business insights to identify sales trends and support data-driven decision-making.
+
 ---
 
 ## 🌐 Connect With Me
